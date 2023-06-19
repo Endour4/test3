@@ -8,6 +8,6 @@
 const color = "green"
 let person;
 if ( color = red){
-    color = "the color is good"
+    color = "the color is good for me, an "
 }
 console.log(color1)
